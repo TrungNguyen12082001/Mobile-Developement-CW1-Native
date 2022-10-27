@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229211797957",
+    "project_id": "mobile-cw1",
+    "storage_bucket": "mobile-cw1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229211797957:android:862cd202528afb513db3ac",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.mobile_cw1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229211797957-qkpkg0ev5505hhud5majvk56d2i521fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qLZjNb1visABOSFYMJKgqWFmmxOf_Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229211797957-qkpkg0ev5505hhud5majvk56d2i521fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
