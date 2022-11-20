@@ -139,7 +139,6 @@ public class ResimaDAO {
         values.put(TripEntry.COL_RISK_ASSESSMENT, resident.getRiskAssessment());
         values.put(TripEntry.COL_DESC, resident.getDesc());
         values.put(TripEntry.COL_PARTICIPANTS, resident.getParticipants());
-//        values.put(ResidentEntry.COL_OWNER, resident.getOwner());
 
         return values;
     }

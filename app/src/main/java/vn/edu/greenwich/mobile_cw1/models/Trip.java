@@ -11,7 +11,6 @@ public class Trip implements Serializable {
     protected String _riskAssessment;
     protected String _desc;
     protected String _participants;
-//    protected int _owner;
 
     public Trip() {
         _id = -1;
@@ -22,7 +21,6 @@ public class Trip implements Serializable {
         _riskAssessment = null;
         _desc = null;
         _participants = null;
-//        _owner = -1;
     }
 
     public Trip(long id, String name, String startDate, String departure, String destination, String riskAssessment, String desc, String participants) {
@@ -34,7 +32,6 @@ public class Trip implements Serializable {
         _riskAssessment = riskAssessment;
         _desc = desc;
         _participants = participants;
-//        _owner = owner;
     }
 
     public long getId() { return _id; }
