@@ -10,7 +10,6 @@ public class TripEntry {
     public static final String COL_RISK_ASSESSMENT = "risk_assessment";
     public static final String COL_DESC = "description";
     public static final String COL_PARTICIPANTS = "participants";
-//    public static final String COL_OWNER = "owner";
 
     public static final String SQL_CREATE_TABLE =
             "CREATE TABLE IF NOT EXISTS " + TABLE_NAME + " (" +
